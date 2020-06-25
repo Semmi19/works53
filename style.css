@@ -1,0 +1,612 @@
+  body{ padding:0px;
+      margin:0px;  }
+  a { text-decoration:none;}
+	  /* часть первая  ( начало)*//*    */
+  header{
+         width:100%;
+         min-height:1346px;   
+		 background:Linear-gradient(to top, #17c2a4 750px, #87509c 596px); } /*        2266, #e7f1f8 920px  */
+ .header_logotip img{ margin:60px 0px 0px 4.8%;}
+ .header_minu_videlen,.header_minu_nazvanie{color:#ffffff; 
+                                             padding:8px 15px 8px 15px; 
+											 text-decoration:none; }
+ .header_minu{            
+              width:36.7%;   
+              display:inline-flex; 
+              justify-content:space-around; 
+		      position:absolute;
+              top:68px; 
+              left: 50%;}
+.header_minu_videlen{ background:#643a79; border-radius:5px;}
+.header_opisanie{font-size:42px; margin-top:90px; color:#f7f3ea;} 
+button.knopka{ 
+             width:24%;
+			 font-size:18px;
+			 color:#ffffff;
+			 height:70px;  
+			 background:#eb7d4b;
+			 border-color:#eb7d4b; 
+			 border-radius:5px;
+			  
+			 }
+			 .cnopca_po_center{ width:100%;display:flex; justify-content:center;  }
+           h2.zagolovoc_header{ margin-top:330px; color:#ffffff;}
+             .polosca{ width:9%;   height:4px; background:#14a58c; }
+			  .polosca_po_centru{width:100%; display:flex; justify-content:space-around; }
+		    .cratcoe_opisanie{ color:#d9f5f0; }
+           .img_vriad{
+		              width:100%;
+					 margin-top:60px;
+					  display:flex; 
+                      justify-content:space-around;
+		   }
+           .img_vriad_zagolovok,.img_vriad_zagolovok_3,.img_vriad_zagolovok_4 {
+		                                                                       margin-top:190px; 
+																			   font-size:1.5em; 
+																			   display:block; 
+																			   color:#ffffff;}
+           .img_vriad_opisanie, .img_vriad_opisanie_3,.img_vriad_opisanie_4{
+                                                                		   font-size:1em; 
+																		   display:block; 
+																		   color:#e0f7f3; 
+																		   line-height:1.2}
+           .img_vriad_1{ position:absolute; top:px; left: 7.8%; }
+           .img_vriad_2{ position:absolute; top:px; left: 32.7%;}
+           .img_vriad_3{ position:absolute; top:px; left: 53.5%;}
+           .img_vriad_4{ position:absolute; top:px; left: 82%;}
+                                                                                                  /* часть первая ( конец )*/
+
+                                                                 /* часть вторая ( начало )*/
+
+.blok_3{
+         margin-bottom:px; 
+		 min-height:913px;
+		 background:#e7f1f8;   } 
+.zagolovoc{
+           font-size:2.06em; 
+           margin:0px;  
+           padding-top:120px;}
+ hr{                                        /*           */
+    width:88px; 
+    background-color:#c8d9e5;
+    height: 3px; 
+    border:none;
+    display:block;  }
+ .opisanie{font-size:1.1em; }
+ .aplicacii{
+            margin-top:60px;
+            display:flex;
+            justify-content:space-around; }
+.links_1{
+          color:#30bae7;
+          margin-left:30px;
+          text-decoration: none; }
+ .links{
+        color:#30bae7; 
+		margin-left:50px;  
+		text-decoration: none;}
+ .zagolovki_blokov{
+                   margin:30px 0px 12px 0px;  
+				   color:#3c4761;}
+ .zagolovok_bloka_2{ margin:30px 0px 12px 30px;color:#3c4761;} 
+  .zagolovok_bloka_3{ margin:30px 0px 12px 10px;color:#3c4761;} 
+ .opisanie_1_bloka,.opisanie_2_bloka,.opisanie_3_bloka,.opisanie_4_bloka{ color:#535e75; font-size:1em;}
+ .links_soc_seti{ margin-left:30px;}
+  .links_soc_seti_1_4{ margin-left:50px;}
+ 
+                                /* часть вторая ( конец )*/
+ 
+ /* часть третья ( начало )*/
+ 
+  .blok_4{min-height:655px; }
+ .blok_4_heading{ color:#3c4761;font-size:2.5em; padding:111px 0px 0px 0px; margin:0px; }
+ .blok_4_opisanie,.blok_5_opisanie{ color:#3c4761; font-size:1.012em;}
+ .blok_4_aplicacii{ margin-top:80px;
+            display:flex;
+            justify-content:space-around;} 
+ 
+ 
+                                                  /* часть третья ( конец )*/
+ /* часть четвертая ( начало )*/
+      .blok_5{ height:auto;  background-color:#ffdd99;}
+       .blok_5_heading{ color:#393939;font-size:2.5em; padding:121px 0px 0px 0px; margin:0px; }
+        .blok_5_polosa{ background-color:#e5c37f;}
+         .blok_5_menu{ 		          		
+            display:flex;
+            justify-content:center;} 
+			.blok_5_menu_1,.blok_5_menu_3{
+			                             font-size:1.012em; 
+										 color:#393939;
+										 padding:10px 18px 10px 18px;
+										 background:#ebc985;
+										 margin:25px 0px 0px 9px;
+										 border-radius:5px; }
+			        .blok_5_menu_1{ background:#ffffff; }
+			          .blok_5_img{ 
+					              display: grid;  
+						          grid-template-columns: 600px 600px; }
+					    .blok_5_img_1,.blok_5_img_2{ flex:1; order:1; }
+	                     .blok_5_img_3,.blok_5_img_4{flex:2; order:2; }
+						  .blok_5_img_1,.blok_5_img_3{ margin-left:80px;}
+                           .blok_5_img_1,.blok_5_img_2,.blok_5_img_4,.blok_5_img_3{margin-top:25px; padding-top:35px;}
+					       .subtitle{ margin-top:30px;}
+                           .cnopca_po_center_2{ width:100%;display:flex; justify-content:center; margin-top:80px; }
+ button.knopka_2{ 
+             width:24%;
+			 font-size:1.012em;
+			 color:#ffffff;
+			 height:70px;  
+			 background:#17c2a4;
+			 border-color:#17c2a4; 
+			 border-radius:5px;	
+			 margin-bottom:110px; 
+			 }
+                                    			   /* часть четвертая ( конец )*/
+												   
+												   
+												   
+/* часть пятая ( начало )*/
+      .blok_6{ 
+	          height:auto; 
+			  background-color:#d74680;
+			  padding-bottom:120px;}
+       .blok_6_heading{
+                 	   color:#ffffff;
+					   font-size:2.5em;
+					   padding:110px 0px 0px 0px;
+					   margin:0px; }
+        .blok_6_polosa{ 
+		                background-color:#b73c6d; 
+						padding:1px 0px 0px 0px;}								   
+		 .blok_6_opisanie{
+		                   color:#ffffff;
+						   font-size:1.012em;}		 
+		  .blok_6_section_1 img,.blok_6_section_2 img,.blok_6_section_3 img,.blok_6_section_4 img{
+		                                                                                           margin:0px 0px 0px 60px;
+																								   float: left;}	  
+               .blok_6_section_1 h3,.blok_6_section_2 h3,.blok_6_section_3 h3,.blok_6_section_4 h3{
+			                        color:#ffffff;
+									margin:25px 0px 0px 200px;
+									font-size:1.5em; }
+			    .blok_6_section_1 a,.blok_6_section_2 a,.blok_6_section_3 a,.blok_6_section_4 a{
+				                     color:#ffdd99;
+									 margin:0px 0px 0px 200px; 
+									 font-size:1.012em; }                
+				 .description_blok_6_1,.description_blok_6_2{ 
+				                       margin:11px 0px 0px 200px;
+									   line-height:1.5;
+									   color:#f7dae6;
+									   font-size:1.3em; }				  				 			         	 			                        
+				        .description_blok_6_3,.description_blok_6_4{
+						                       margin:140px 0px 0px 200px;
+											   line-height:1.5;
+											   color:#f7dae6;
+											   font-size:1.3em; }
+				         .blok_6_section_3 img, .blok_6_section_4 img{ margin:140px 0px 0px 60px;}     				  
+				           	  .blok_6_sections{
+					                            margin:60px 0px 0px 0px;
+  					                            display: grid;  
+						                        grid-template-columns: 600px 600px; }
+				               .blok_6_section_1,.blok_6_section_2{ flex:1; order:1; }
+	                            .blok_6_section_3,.blok_6_section_4{flex:2; order:2; }		
+
+	
+
+
+								
+												                                        /* часть пятая ( конец )*/
+/* часть шестая ( начало )*/
+      .blok_7{  
+			  background-color:#3c5499;   
+			  }
+       .blok_7_heading{
+                 	   color:#ffffff; 
+					   font-size:2.5em;
+					   padding:110px 0px 0px 0px;
+					   margin:0px; }
+        .blok_7_polosa{ 
+		                background-color:#273a71; 
+						padding:1px 0px 0px 0px;}								   
+		 .blok_7_opisanie{
+		                   color:#ffffff;
+						   font-size:1.012em;}
+		  .blok_7_input_1 input,.blok_7_input_2 input {
+		                                                 height:48px;
+														 background:#273a71;
+														 border-color:#273a71;
+														 border-style: solid; 
+														 border-radius:5px; }       			  
+		   .blok_7_input_3  input{ color:red;   height:200px; width:51em; background:#273a71; border-color:#273a71; border-style: solid; border-radius:5px;}
+		   
+		   .blok_7_input_1 input::-webkit-input-placeholder{   padding:20px 0px 0px 20px;      															  
+															 color:#ffffff;
+															 font-size:1.12em;}/* webkit */	
+			 .blok_7_input_2 input::-webkit-input-placeholder{   padding:20px 0px 0px 20px;      															  
+															 color:#ffffff;
+															 font-size:1.12em;}/* webkit */													 
+		   .blok_7_input_3 input::-webkit-input-placeholder{  
+		                                                     position:relative; 
+															 top:70px; 
+															 left:20px; 
+							 								 color:#ffffff;
+															 font-size:1.12em;}/* webkit */		  
+           ::-moz-placeholder          {color:#ffffff; opacity:1;}/* Firefox 19+ */
+           :-moz-placeholder           {color:#ffffff; opacity:1;}/* Firefox 18- */
+           :-ms-input-placeholder      {color:#ffffff; opacity:1;}/* 360px 320px; IE */ 
+		    
+			.blok_7_1_input{ 
+			                 display: grid;  
+						     grid-template-columns:22.5em 20em; 
+							 justify-content:center;}
+			 .blok_7_2_input{
+			                   position: relative; 
+							   margin:15px 0px 0px 22px;}	
+              .blok_7_input_1,.blok_7_input_2{ padding:25px 0px 0px 0px; }
+			   .blok_7_input_1 span,.blok_7_input_2 span,.blok_7_input_3 span{  color:red;} 
+			    .blok_7_input_3 div{   color:#ffffff;
+									   position:relative; 
+									   top:30px; 
+								       right:280px;}	
+			     .blok_7_input_1 div,.blok_7_input_2 div{  
+                            				              color:#ffffff;
+				                                          position:relative; 
+														  top:30px; 
+														  left:20px;  }	
+			  @-moz-document url-prefix() { 			                          	
+                                     .blok_7_1_input{
+			                                         display: grid;  
+						                             grid-template-columns:23em 20em; 
+							                         justify-content:center;}
+									  .blok_7_2_input input{  margin:1px 0px 0px 20.2em;}			  
+		                               .blok_7_input_1 input,.blok_7_input_2 input{ padding:0px 0px 0px 0px; width:320px;}
+			                            .blok_7_input_1 input,.blok_7_input_2 input {
+										                                               padding:20px 0px 0px 20px;      													  
+															                           color:#ffffff;
+															                           font-size:1.12em;
+		                                                                               height:30px;
+														                               background:#273a71;
+														                               border-color:#273a71;
+														                               border-style: solid; 
+													                             	   border-radius:5px; } 
+																					   
+								
+										 .blok_7_input_3  input{    
+              											             color:red;   
+																	 height:200px; 
+																	 width:39.5em; 
+																	 background:#273a71; 
+																	 border-color:#273a71;
+																	 border-style: solid; 
+																	 border-radius:5px;}	
+												 
+		                                  .blok_7_input_1 div,.blok_7_input_2 div{ 
+                                           										   color:#ffffff;
+				                                                                   position:relative; 
+														                           top:30px; 
+														                           left:20px;  
+               		                                                                          }		
+							              .blok_7_input_1 span,.blok_7_input_2 span,.blok_7_input_3 span{  color:red;} 
+										   .blok_7_input_3 div{   
+										                        color:#ffffff;
+												                position:relative; 
+															    top:30px; 
+															    right:280px;}	                                        											
+		                                    .blok_7_input_3 input{
+		                                                           margin:0px 0px 0px 15px;														 
+							 								       color:#ffffff;
+															       font-size:1.12em;}	   
+                                             img.ugoloc{
+  									                    position: relative;
+													    top:92px; right:20px;}	                                 }      
+	   
+		                                     .cnopca_po_center_3{
+		                                                         width:100%;
+																 display:flex; 
+		                                                         justify-content:center;
+		                                                         margin-top:60px; }
+                                              button.knopka_3{ 
+                                                               width:23.7%;
+			                                                   font-size:1.012em;
+			                                                   color:#ffffff;
+			                                                   height:70px;  
+			                                                   background:#30bae7;
+			                                                   border-color:#30bae7; 
+			                                                   border-radius:5px;	
+			                                                   margin-bottom:110px; 
+			                                                                          }
+			                                  .ugoloc{ 
+											           position: relative;
+													   top:92px; 
+													   right:20px;}
+                                                                                                     /* часть шестая ( конец )*/															   
+ /* часть седьмая ( начало )*/
+			   footer{
+			          background:#344b8e;
+                      min-height:111px;
+					  }
+					 
+				.footer_links{   padding:48px 0px 0px 0px;
+					             width:auto;
+					             display:flex;
+					             justify-content:center; 
+							     font-size:1.5em;}
+				 .footer_links_v_row{
+                      				 color:#ffffff; 
+									 padding:0px 15px 0px 15px;}
+			      .footer_links_v_row_blue{ 
+				                            color:#319ccf; 
+											padding:0px 15px 0px 15px;}
+			                                                             /* часть седьмая ( конец )*/
+			
+			
+			
+ /* @@@@@@@    часть первая ( начало )    @@@@@@@@*/
+  @media screen and (max-width:900px){  header{
+                                               height:800px;   
+                                               background:Linear-gradient(to top, #17c2a4 500px, #87509c 300px); }
+                                        h2.zagolovoc_header{ margin-top:70px;}
+                                        .header_minu{ font-size:10px;}
+                                        .header_logotip img{
+                     										width:90px; 
+															height:25px; } 
+										.header_minu_videlen{   padding:6px 13px 6px 13px; 
+										                        background:#643a79;
+										                        border-radius:4px;} 
+										.header_minu_nazvanie{  padding:6px 13px 6px 13px; }
+										.header_opisanie{
+										                 font-size:22px; 
+														 margin-top:60px;}
+										button.knopka{
+										              width:18%;
+													  font-size:10px;
+													  color:#ffffff;
+													  height:40px;  
+													  border-radius:4px;}
+										.zagolovoc_header{ 
+										                   font-size:14px; 
+														   margin-top:265px; 
+														   color:#ffffff;}
+										.img_vriad_opisanie{
+                    										font-size:0.8em;
+															margin-top:px;}
+			                            .img_vriad_zagolovok, .img_vriad_zagolovok_3,.img_vriad_zagolovok_4{
+										                                                                    font-size:1em; 
+																											text-align: center;}
+			                            .img_koloonka_1, .img_koloonka_2{ 
+										                                 display:block-flex; 
+																		 justify-content:space-around;} 
+									    .img_vriad_zagolovok_3{margin-top:px; } 
+									  }
+			 
+			 
+			                                      
+	@media only screen and (max-width:800px){  
+	
+                                             .img_vriad_zagolovok,.img_vriad_zagolovok_3,.img_vriad_zagolovok_4{
+											                                                                    margin-top:20px; 
+																												font-size:1em;}
+                                             .img_vriad_1{ position:relative; top:px; left: 20%; }
+                                             .img_vriad_2{ position:relative; top:1px; left: 40.7%;}
+                                             .img_vriad_3{ position:relative; top:1px; left: 15%;}
+                                             .img_vriad_4{ position:relative; top:1px; left: 30.7%;} 
+                                             .img_vriad{ 
+											            display: grid;  
+														grid-template-columns: 200px 200px;  }
+                                             .img_vriad_1,.img_vriad_2,.img_vriad_3,.img_vriad_4{
+											                                                     display: grid;  
+																								 grid-template-columns: 200px 200px; }
+	                                         .img_koloonka_1,.img_koloonka_2{ flex:1; order:1;}
+	                                         .img_koloonka_3,.img_koloonka_4{flex:2; order:2; } 
+	                                          header{ width:100%;
+											          height:980px;   
+													  background:Linear-gradient(to top, #17c2a4 700px, #87509c 696px); }
+                                            }	  
+										  
+										  
+	@media only screen and (max-width:490px){   
+	                                         .img_koloonka_1{flex:1; 
+											                 order:1; 
+											                 display:inline-block;  }
+	                                         .img_koloonka_2{
+											                 flex:2; 
+															 order:2;
+															 display:inline-block; } 
+	                                         .img_koloonka_3{ 
+											                 flex:3; 
+															 order:3;}
+	                                         .img_koloonka_4{
+											                 flex:4; 
+															 order:4;}
+															 header{ width:100%;
+											          height:1050px;   
+													  background:Linear-gradient(to top, #17c2a4 700px, #87509c 696px); }
+    		}
+	
+	
+	
+   @media screen and (max-width:360px){
+                                         header{
+									            height:400px;   
+											    background:Linear-gradient(to top, #17c2a4 200px, #87509c 150px); }
+                                         h2.zagolovoc_header{ margin-top:38px;} 
+									     .header_minu{ font-size:7px;}
+                                         .header_logotip img{ width:70px; height:15px; }
+										 .header_minu_videlen{
+                       										  padding:3px 9px 3px 9px;
+															  background:#643a79; 
+															  border-radius:2px;} 
+										 .header_minu_nazvanie{   padding:3px 9px 3px 9px; } 
+										 .header_opisanie{ 
+										                   font-size:12px; 
+														   margin-top:30px;} 
+								          button.knopka{ 
+										                 width:17%; 
+														 font-size:6px; 
+														 color:#ffffff; 
+														 height:30px;  
+														 border-radius:3px;} 										
+										 .img_vriad_razmer{height:30px; width:70px; } 
+										 .img_vriad{margin-top:5px; }
+										 .img_vriad_opisanie{ font-size:0.2em;}
+			                             .img_vriad_zagolovok{font-size:0.4em; }} 
+										                                                                                       /* часть первая ( конец )*/
+ /*    */
+ 
+ 
+                                                                                                     /* часть вторая ( начало )*/
+                @media screen and (max-width:900px){    .aplicacii{ 
+											            display: grid;  
+														grid-template-columns: 250px 210px;  } 
+	                                          .bloc_1, .bloc_2{ flex:1; order:1;}
+	                                           .bloc_3, .bloc_4{flex:2; order:2; } 
+                                                .blok_3{ height:1250px;}	
+												 .opisanie_1_bloka,.opisanie_3_bloka{margin-right:50px; }	 		
+												  .bloc_3,.bloc_4{ margin-top:50px;}	 }
+												  
+@media screen and (max-width:500px){         .aplicacii{ 
+											            display: grid;  
+														grid-template-columns: 250px;  }  
+                                               			    .bloc_1 { flex:1; order:1;}
+															 .bloc_2 { flex:2; order:2;}
+															  .bloc_3{ flex:3; order:3;}
+	                                                           .bloc_4{flex:4; order:4; } 
+                                                                .blok_3{ height: auto;}	
+																 .opisanie_2_bloka,.opisanie_4_bloka{margin-right:50px; }		}
+
+                                                                                                                                     /* часть вторая ( конец )*/
+                                                                                                        /* часть третья ( начало )*/
+                @media screen and (max-width:900px){       .blok_4{ height:850px;}
+				                                           .blok_4_aplicacii{ display: grid;  
+														grid-template-columns: 250px 210px;}
+														.blok_1_4,.blok_2_4{ flex:1; order:1;}
+	                                                    .blok_3_4,.blok_4_4{flex:2; order:2; }
+                                                     
+														 .blok_1_4,.blok_3_4{ margin-left:40px;}
+                                                         .blok_3_4,.blok_4_4{ margin-top:60px;}   }
+
+                   @media screen and (max-width:500px){  .blok_4{ height: auto;}
+				                                          .blok_4_aplicacii{ 
+											                                display: grid;  
+														                    grid-template-columns: 250px;  }  
+                                               			    .blok_1_4 { flex:1; order:1;}
+															 .blok_2_4 { flex:2; order:2;}
+															  .blok_3_4{ flex:3; order:3;}
+	                                                           .blok_4_4{flex:4; order:4; }                                                               	
+															    .blok_2_4,.blok_4_4{margin-left:50px; }
+																 .blok_2_4{ margin-top:50px;}		}
+                                                                                                            /* часть третья ( конец )*/
+ 
+                     /* часть четвертая ( начало )*/
+ @media screen and (max-width:1200px){					 
+					  .blok_5_img{  height: auto;
+					              display: grid;  
+						          grid-template-columns: 600px ; justify-content: center;}
+					    .blok_5_img_1{ flex:1; order:1; }
+						 .blok_5_img_2{flex:2; order:2; }
+	                      .blok_5_img_3{flex:3; order:3; }
+						   .blok_5_img_4{flex:4; order:4; }
+						    .blok_5_img_1,.blok_5_img_3{ margin-left:40px;}   
+					         .cnopca_po_center_2{ 
+							                      width:100%;
+												  display:flex; 
+												  justify-content:center;
+												  margin-top:80px; }
+											  
+												  }
+					 
+ @media screen and (max-width:600px){  
+		                                 button.knopka_2{width:24%;
+										 height: 40%;
+										 }
+					         .cnopca_po_center_2{							                   
+             							          width:100%;
+												  display:flex; 
+												  justify-content:center; 
+												  margin-top:80px;
+                                                  font-size:0.7em; }
+					           .blok_5_img{
+   					                        display: grid;  
+						                    grid-template-columns: 300px ;
+								            justify-content: center;}
+								  .blok_5_img_1 img,.blok_5_img_2 img,.blok_5_img_3 img,.blok_5_img_4 img{  width:100%;}
+								  
+					 
+					 
+					 
+					 
+					 }
+					 
+					  /* часть четвертая ( конец ) */
+ 
+ /* блок 6 ( начало ) */
+  @media screen and (max-width:1200px){  
+                               .blok_6_sections{
+					                            margin:60px 0px 0px 0px;
+  					                            display: grid;  
+												justify-content: center;
+						                        grid-template-columns: 600px; }
+				                .blok_6_section_1{ flex:1; order:1; }
+	                            .blok_6_section_2{flex:2; order:2; }
+                                .blok_6_section_3{ flex:3; order:3; }
+	                            .blok_6_section_4{flex:4; order:4; }
+								.blok_6_section_2{ margin: 145px 70px 0px 0px;}
+ }
+  @media screen and (max-width:800px){  
+   .blok_6_heading{ font-size:2em;}}
+   
+        
+   @media screen and (max-width:600px){ 
+   .blok_6_heading{ font-size:1.5em;}
+   .blok_6_opisanie{ font-size:0.8em;} 
+   .blok_6_section_1 h3,.blok_6_section_2 h3,.blok_6_section_3 h3,.blok_6_section_4 h3{font-size:1.2em;}
+   .blok_6_section_1 a,.blok_6_section_2 a,.blok_6_section_3 a,.blok_6_section_4 a{ font-size:0.8em;} }                          
+  
+  @media screen and (max-width:500px){  
+   .blok_6_heading{ font-size:2em;
+   .blok_6_opisanie{ font-size:1em;}
+   }}
+ 
+ /* блок 6 ( конец ) */
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
